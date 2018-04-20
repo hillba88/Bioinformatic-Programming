@@ -1,2 +1,2 @@
 # Bioinformatic-Programming
-Miscellaneous scripts for GEN712
+Miscellaneous bioinformatics utilities
